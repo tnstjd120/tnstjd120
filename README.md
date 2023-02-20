@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=KwonSoonSung&desc=Front-End%20Developer&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=KwonSoonSung&desc=Front-End%20Developer&fontAlignY=30&color=gradient&animation=twinkling)
