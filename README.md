@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8267F7&center=true&vCenter=true&width=850&lines=Welcome+to+my+github+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
-## 🖥️  Tech Stack
+### 🖥️ &nbsp; Tech Stack
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;
@@ -19,8 +19,10 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp;
 
+### 📚 &nbsp; stats
+
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tnstjd120&show_icons=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tnstjd120&show_icons=true&theme=tokyonight">&nbsp;
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnstjd120&layout=compact&theme=tokyonight">
 </div>
 
