@@ -20,6 +20,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp;
 
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tnstjd120&show_icons=true&theme=tokyonight)
+![tnstjd120's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnstjd120&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnstjd120&layout=compact&theme=tokyonight)
 </div>
