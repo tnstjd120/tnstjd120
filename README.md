@@ -5,17 +5,16 @@
 
 ## 🖥️  Tech Stack
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat&logo=ReactRouter&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat&logo=ReactHookForm&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat&logo=styledComponents&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat&logo=ReactRouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=flat&logo=ReactHookForm&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/styledComponents-DB7093?style=flat&logo=styledComponents&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
